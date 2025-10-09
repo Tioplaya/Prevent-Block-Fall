@@ -1,5 +1,3 @@
-Discontinued
-
 # Prevent Block Fall
 This plugin limits the number of falling blocks per chunk. This way, lags disappear when for example anvils or sand falls into the web.
 
